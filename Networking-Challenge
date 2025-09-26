@@ -82,21 +82,14 @@ V. Secure your instance by limiting access only to trusted IPs.
 ✅ Week 1 Summary
 
 Learned OSI & TCP/IP Models with practical mapping
-
 Documented key Protocols & Ports used in DevOps
-
 Launched AWS EC2 and configured Security Groups
-
 Built a Cheat Sheet of networking commands
 
 📌 Resources Used
 
 OSI Model Explained – GeeksforGeeks
-
 Common Networking Protocols
-
 AWS Free Tier
-
 DNS Basics – Cloudflare
-
 Docker Networking
